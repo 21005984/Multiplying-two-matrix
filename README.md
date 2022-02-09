@@ -27,6 +27,8 @@ Print
 
 ## PROGRAM: 
 ```
+##NAME:MEIYARASI.V
+##REGISTER NUMBER :21005984
 import numpy as np
 l1,l2=[],[]
 n=int(input())
