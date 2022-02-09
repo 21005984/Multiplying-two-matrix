@@ -41,9 +41,8 @@ print("Product of two arrays is:",result)
 ```
 
 ## OUTPUT:
-
-!![GitHub Logo](.//c1.png)
-
+![Output](.//M1.png)
 
 ## RESULT:
+
 
