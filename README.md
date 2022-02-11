@@ -46,5 +46,6 @@ print("Product of two arrays is:",result)
 ![Output](.//M1.png)
 
 ## RESULT:
+thus the program is written to multiply two matrix
 
 
